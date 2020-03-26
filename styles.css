@@ -1,0 +1,22 @@
+body{
+  background-color: #edffea;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  height: 0;
+  width: 2%;
+  border-color: grey;
+  border-width: 4px;
+}
+h1{
+  color: #a8e6cf;
+  font-family: serif;
+}
+h3{
+  color: #05dfd7;
+  font-family: sans-serif;
+}
+.circular{
+  border-radius: 100%;
+}
